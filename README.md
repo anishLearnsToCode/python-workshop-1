@@ -21,7 +21,7 @@ Happy Coding :octocat: 🐱‍💻
 | [Day 1](#day-1) | [[Topics Covered]](#topics-covered) ⭐ [[Further Reading]](#further-reading) ⭐ [[Sample Questions]](#sample-questions) |
 | [Day 2](#day-2) | [[Topics Covered]](#topics-covered-1) ⭐ [[Further Reading]](#further-reading-1) ⭐ [[Sample Questions]](#sample-questions-1) |
 | [Python Capstone Project](#hangman-game-capstone-project) | [[Repository]](https://github.com/anishLearnsToCode/hangman-cli-game) |
-| [Future??]() | ➡➡ [look ahead]() |
+| [Future??](#future-scope-and-path) | ➡➡ [look ahead](#future-scope-and-path) |
 
 ## Project Setup Details
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -109,7 +109,7 @@ and are most welcome to contribute just as above 😀
 ### Core Python
 Before starting of your journey in Data Structures or 
 [web development](#web-development) or even 
-[machine learning](#machine-learning)
+[machine learning](#machine-learning-)
 another good first step can be just developing your core Python skills further so that you are 
 familiar with all the different constructs that the language has to offer. That can be done on 
 HackerRank in the 
@@ -118,5 +118,43 @@ and you can have a look at solutions to all the problems
 [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
 ### Web Development
+Python is a very versatile programming language and is being used for all things from biology
+to robotics, computer vision and even serve side rendered web applications and api's.
+As you are now proficient with the programming language you can start learning a web 
+development framework like 
+[Django](https://www.djangoproject.com/) or
+[Falcon](https://falcon.readthedocs.io/en/stable/).
+
+Django is a have all web development framework and you can even build very large, highly modern
+cluster based web sites that can be deployed to scale. You can use it just to create a server-side
+API with a separate client facing application or a MVC (Model view controller) based application
+that has server side rendering.
+
+Falcon is a relatively light weight web development platform but it is blazing fast ⚡ and that serves
+it's own purpose. It can be used to create a super fast very minimalistic server side API's 
+and can aso be used to create server side job runners like mail sending and background processing.
+
+You could always use multiple server side frameworks which will give you the perfect opportunity
+to use buzz words like docker, kubernetes 🛳, clusters, swarms and add all these buzz words to
+your resume 😉. 
 
 ### Machine Learning 🔥
+Speaking of buzz words... Machine Learning has enjoyed fame of meteoric proportions and there are
+plenty of resources to get started with ML and Python has somehow become the defacto language
+used in Machine Learning / Deep Learning applications and is being sed by Engineers & 
+scientists of many different domains that have written numerous libraries serving various purposes
+all around the globe 🌎 which is good for us ☺.
+
+Some popular libraries are:
+- [numpy](https://numpy.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [tensorflow](https://www.tensorflow.org/)
+- [open-cv](https://opencv.org/)
+- [pyTorch](https://pytorch.org/)
+
+To get started with Machine Learning I recommend the ubiquitous 
+[Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
+course on [Coursera](https://www.coursera.org) by Andrew Ng.
+
+This may be old but it's essence and relevance haven't dwindled at all. Solutions to all problems
+with well written code can be found [here](https://github.com/anishLearnsToCode/ml-stanford).
