@@ -1,7 +1,7 @@
-# Python Basics Workshop - What After College
+# Python 🐍 Basics Workshop - What After College
 
-Solutions to all sample problems on HackerRank under the Java domain can be 
-looked up [here](https://github.com/anishLearnsToCode/hackerrank-java).
+Solutions to all sample problems on HackerRank under the Python domain can be 
+looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
 Programming is a very hands process and is both an art as well as a science. We are
 engineers and are required to create efficient solutions but at the same time our programs should be 
@@ -12,3 +12,4 @@ and making the first step in any direction is commendable, but the cardinal fact
 will be you sitting down (or standing) and writing code. No book or resource can substitute that.
 
 So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can....    
+Happy Coding :octocat: 🐱‍👤🐱‍💻
