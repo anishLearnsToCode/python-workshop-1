@@ -21,6 +21,7 @@ Happy Coding :octocat: 🐱‍💻
 | [Day 1](#day-1) | [[Topics Covered]](#topics-covered) ⭐ [[Further Reading]](#further-reading) ⭐ [[Sample Questions]](#sample-questions) |
 | [Day 2](#day-2) | [[Topics Covered]](#topics-covered-1) ⭐ [[Further Reading]](#further-reading-1) ⭐ [[Sample Questions]](#sample-questions-1) |
 | [Python Capstone Project](#hangman-game-capstone-project) | [[Repository]](https://github.com/anishLearnsToCode/hangman-cli-game) |
+| [Future??]() | ➡➡ [look ahead]() |
 
 ## Project Setup Details
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -77,3 +78,45 @@ Happy Coding :octocat: 🐱‍💻
 
 ## Hangman Game (Capstone Project)
 - The code can be viewed [here](https://github.com/anishLearnsToCode/hangman-cli-game).
+
+## Future Scope and Path
+Now that you have learnt the basics of Python and also built an amazing project that showcases
+your skills, how to move ahead and learn more? What else could you work on? Here are a 
+few suggestions:
+
+### Data Structures and Algorithms
+Data Structures and Algorithms is an immensely important topic required for Software development and
+is used by organizations for all sizes as a tool for employee hiring and recruitment. To get better
+at this I recommend that you practice questions in the 
+[Data Structures](https://www.hackerrank.com/domains/data-structures) and 
+[Algorithms](https://www.hackerrank.com/domains/algorithms) 
+domain on HackerRank and you can have a look at solutions to many of those problems in the 
+solution repositories given below.
+
+| Problem Domain | Solution Repository |
+|----------------|---------------------|
+| [Data Structures](https://www.hackerrank.com/domains/data-structures) | [Solutions](https://github.com/anishLearnsToCode/hackerrank-data-structures) |
+| [Algorithms](https://www.hackerrank.com/domains/algorithms) | [Solutions](https://github.com/anishLearnsToCode/hackerrank-algorithms) |
+
+You can views solutions to problems in Python (or any of your preferred programming language)
+and you are most welcome to contribute to the repository solutions to unsolved problems 
+or solutions in more languages (aka Python). 
+
+You can also try questions on [Leet Code](https://leetcode.com/) and have a look at the 
+[solutions repository](https://github.com/anishLearnsToCode/leetcode-algorithms)
+and are most welcome to contribute just as above 😀
+
+### Core Python
+Before starting of your journey in Data Structures or 
+[web development](#web-development) or even 
+[machine learning](#machine-learning)
+another good first step can be just developing your core Python skills further so that you are 
+familiar with all the different constructs that the language has to offer. That can be done on 
+HackerRank in the 
+[Python Domain](https://www.hackerrank.com/domains/python) 
+and you can have a look at solutions to all the problems
+[here](https://github.com/anishLearnsToCode/hackerrank-python).
+
+### Web Development
+
+### Machine Learning 🔥
