@@ -21,7 +21,7 @@ Happy Coding :octocat: 🐱‍💻
 | [Day 1](#day-1) | [[Topics Covered]](#topics-covered) ⭐ [[Further Reading]](#further-reading) ⭐ [[Sample Questions]](#sample-questions) |
 | [Day 2](#day-2) | [[Topics Covered]](#topics-covered-1) ⭐ [[Further Reading]](#further-reading-1) ⭐ [[Sample Questions]](#sample-questions-1) |
 | [Python Capstone Project](#hangman-game-capstone-project) | [[Repository]](https://github.com/anishLearnsToCode/hangman-cli-game) |
-| [Future??](#future-scope-and-path) | ➡➡ [look ahead](#future-scope-and-path) |
+| [Future Path ??](#future-scope-and-path) | ➡➡ [look ahead](#future-scope-and-path) |
 
 ## Project Setup Details
 - [Visual Studio Code](https://code.visualstudio.com/)
