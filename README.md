@@ -11,5 +11,11 @@ To become proficient in this art, there are many resources, and books and tutori
 and making the first step in any direction is commendable, but the cardinal factor at the end of the day
 will be you sitting down (or standing) and writing code. No book or resource can substitute that.
 
-So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can....    
-Happy Coding :octocat: 🐱‍👤🐱‍💻
+So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can.... 🐱‍👤    
+Happy Coding :octocat: 🐱‍💻
+
+## Index
+| Day | Important Links |
+|:---:|:---------------:|
+| [Day 1]() | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
+| [Day 1]() | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
