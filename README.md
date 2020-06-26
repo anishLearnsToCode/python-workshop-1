@@ -17,10 +17,10 @@ Happy Coding :octocat: 🐱‍💻
 ## Index
 | Domain | Important Links |
 |:---:|:---------------:|
-| [Project Setup Details](#project-setup-details) | |
+| [Project Setup Details](#project-setup-details) | _-- No Links --_|
 | [Day 1](#day-1) | [[Topics Covered]](#topics-covered) ⭐ [[Further Reading]](#further-reading) ⭐ [[Sample Questions]](#sample-questions) |
 | [Day 2](#day-2) | [[Topics Covered]](#topics-covered-1) ⭐ [[Further Reading]](#further-reading-1) ⭐ [[Sample Questions]](#sample-questions-1) |
-| [Hangman Game](#hangman-game-capstone-project) | [[Repository]](https://github.com/akannshu/hangman-CLI-game/blob/master/random_word_generator.py) |
+| [Python Capstone Project](#hangman-game-capstone-project) | [[Repository]](https://github.com/anishLearnsToCode/hangman-cli-game) |
 
 ## Project Setup Details
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -59,6 +59,7 @@ Happy Coding :octocat: 🐱‍💻
 ### Topics Covered
 
 ### Further Reading
+- [Math Module](https://docs.python.org/3/library/math.html)
 - [Stack Overflow Survey 2020](https://insights.stackoverflow.com/survey/2020)
 - [Python Example Projects and Project Based Tutorials](https://realpython.com/tutorials/projects/)
 - [Django: Web Development on Python](https://www.djangoproject.com/)
@@ -66,7 +67,7 @@ Happy Coding :octocat: 🐱‍💻
 
 ### Sample Questions
 | Question | Solution Link |
-|:--------:|:--------:|
+|:---------|:--------:|
 | [Write a Function](https://www.hackerrank.com/challenges/write-a-function) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/WriteAFunction.py) |
 | [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
 | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-counter.py) |
@@ -75,3 +76,4 @@ Happy Coding :octocat: 🐱‍💻
 | [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
 
 ## Hangman Game (Capstone Project)
+- The code can be viewed [here](https://github.com/anishLearnsToCode/hangman-cli-game).
