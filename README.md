@@ -23,6 +23,7 @@ Happy Coding :octocat: 🐱‍💻
 | [Hangman Game](#hangman-game-capstone-project) | [[Repository]](https://github.com/akannshu/hangman-CLI-game/blob/master/random_word_generator.py) |
 
 ## Project Setup Details
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [JetBrains PyCharm Community Edition](https://www.jetbrains.com/edu-products/download/)
 - [Git](https://git-scm.com/downloads)
 - [Python 3](https://www.python.org/downloads/)
