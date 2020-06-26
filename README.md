@@ -17,5 +17,50 @@ Happy Coding :octocat: 🐱‍💻
 ## Index
 | Day | Important Links |
 |:---:|:---------------:|
-| [Day 1]() | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
-| [Day 1]() | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
+| [Day 1](#day-1) | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
+| [Day 2]() | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
+| [Hangman Game]() | [[Repository]](https://github.com/akannshu/hangman-CLI-game/blob/master/random_word_generator.py) |
+
+## Day 1
+### Topics Covered
+
+### Further Reading
+- [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
+- [Projects Created on Python](python.org/about/success)
+- [C++ vs. Java vs. Python Language Speed Test (Informal)](https://www.youtube.com/watch?v=C8jeRug6agk)
+
+### Sample Questions
+| Question | Solution Link |
+|:---------|:--------:|
+| [Say "Hello World" With Python](https://www.hackerrank.com/challenges/py-hello-world)| [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/SayHelloWorldWithPython.py) |
+| [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PythonIfElse.py) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/ArithmeticOperator.py) |
+| [Python Division](https://www.hackerrank.com/challenges/python-division) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Division.py) |
+| [Loops](https://www.hackerrank.com/challenges/python-loops) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Loops.py)|
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
+| [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/FindTheRunnerUpScore.py) |
+| [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/nested-lists.py) |
+| [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/finding-the-percentage.py) |
+| [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/Lists.py) |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/tuples.py) |
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/swap-case.py) |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
+| [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
+
+## Day 2
+
+### Topics Covered
+
+### Further Reading
+
+### Sample Questions
+| Question | Solution Link |
+|:--------:|:--------:|
+| [Write a Function](https://www.hackerrank.com/challenges/write-a-function) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/WriteAFunction.py) |
+| [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
+| [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-counter.py) |
+| [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/default-dict-tutorial.py) |
+| [Collections.namedTuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-named-tuple.py) |
+| [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
+
+## Hangman Game (Capstone Project)
