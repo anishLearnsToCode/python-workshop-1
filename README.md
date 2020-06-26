@@ -15,11 +15,17 @@ So, what are you waiting for 😀😉 - try as many questions (below or otherwis
 Happy Coding :octocat: 🐱‍💻
 
 ## Index
-| Day | Important Links |
+| Domain | Important Links |
 |:---:|:---------------:|
+| [Project Setup Details](#project-setup-details) | |
 | [Day 1](#day-1) | [[Topics Covered]](#topics-covered) ⭐ [[Further Reading]](#further-reading) ⭐ [[Sample Questions]](#sample-questions) |
 | [Day 2](#day-2) | [[Topics Covered]](#topics-covered-1) ⭐ [[Further Reading]](#further-reading-1) ⭐ [[Sample Questions]](#sample-questions-1) |
 | [Hangman Game](#hangman-game-capstone-project) | [[Repository]](https://github.com/akannshu/hangman-CLI-game/blob/master/random_word_generator.py) |
+
+## Project Setup Details
+- [JetBrains PyCharm Community Edition](https://www.jetbrains.com/edu-products/download/)
+- [Git](https://git-scm.com/downloads)
+- [Python 3](https://www.python.org/downloads/)
 
 ## Day 1
 ### Topics Covered
@@ -52,6 +58,10 @@ Happy Coding :octocat: 🐱‍💻
 ### Topics Covered
 
 ### Further Reading
+- [Stack Overflow Survey 2020](https://insights.stackoverflow.com/survey/2020)
+- [Python Example Projects and Project Based Tutorials](https://realpython.com/tutorials/projects/)
+- [Django: Web Development on Python](https://www.djangoproject.com/)
+- [Falcon: Minimalist Web Framework](https://falcon.readthedocs.io/en/stable/)
 
 ### Sample Questions
 | Question | Solution Link |
