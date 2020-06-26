@@ -17,9 +17,9 @@ Happy Coding :octocat: 🐱‍💻
 ## Index
 | Day | Important Links |
 |:---:|:---------------:|
-| [Day 1](#day-1) | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
-| [Day 2]() | [[Topics Covered]]() ⭐ [[Further Reading]]() ⭐ [[Sample Questions]]() |
-| [Hangman Game]() | [[Repository]](https://github.com/akannshu/hangman-CLI-game/blob/master/random_word_generator.py) |
+| [Day 1](#day-1) | [[Topics Covered]](#topics-covered) ⭐ [[Further Reading]](#further-reading) ⭐ [[Sample Questions]](#sample-questions) |
+| [Day 2](#day-2) | [[Topics Covered]](#topics-covered-1) ⭐ [[Further Reading]](#further-reading-1) ⭐ [[Sample Questions]](#sample-questions-1) |
+| [Hangman Game](#hangman-game-capstone-project) | [[Repository]](https://github.com/akannshu/hangman-CLI-game/blob/master/random_word_generator.py) |
 
 ## Day 1
 ### Topics Covered
