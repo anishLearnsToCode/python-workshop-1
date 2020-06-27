@@ -29,8 +29,22 @@ Happy Coding :octocat: 🐱‍💻
 - [Git](https://git-scm.com/downloads)
 - [Python 3](https://www.python.org/downloads/)
 
-## Day 1
+## [Day 1](https://github.com/anishLearnsToCode/python-workshop-1/tree/master/day-1)
 ### Topics Covered
+- [Basic Printing (Hello world Program)](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/helloWorld.py)
+- [Taking User Input](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/input.py)
+- [Strings](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/strings.py)
+- [Int Input](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/intInput.py)
+- [Arithmetic Operators](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/operators.py)
+- [Logical Expressions](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/logicalExressions.py)
+- [If Else](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/ifElse.py)
+- [While Loop](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/loops.py)
+- [For Loop](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/forLoop.py)
+- [Loop Control Statements](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/loopControlStatements.py)
+- [Nested Loop](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/nestedLoop.py)
+- [Lists](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/lists.py)
+- [Functions](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/functions.py)
+- [Python Dictionary](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/dictionary.py)
 
 ### Further Reading
 - [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
