@@ -1,0 +1,6 @@
+print('hello world')
+print('hello i am here')
+print('anish sachdeva', end='*')
+print('stars', end='\n')
+print('stars', end='')
+print('continued')

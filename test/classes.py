@@ -1,3 +1,5 @@
+import sympy
+
 class Person:
     def __init__(self, firstName, lastname):
         self.firstName = firstName
@@ -11,3 +13,4 @@ anish = Person('anish', 'sachdeva')
 john = Person('john', 'doe')
 print(anish.fullName())
 print(john.fullName())
+print(sympy.isprime(2))
