@@ -1,3 +1,5 @@
+# keys --> value
+# keys are unique
 words = {
     'hello': 10,
     'i': 90

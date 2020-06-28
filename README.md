@@ -1,6 +1,8 @@
 # Python 🐍 Basics Workshop - What After College
 
-Solutions to all sample problems on HackerRank under the Python domain can be 
+Solutions to all sample problems on HackerRank under the 
+[Python domain](https://www.hackerrank.com/domains/python)
+ can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
 Programming is a very hands process and is both an art as well as a science. We are
@@ -47,6 +49,8 @@ Happy Coding :octocat: 🐱‍💻
 - [Python Dictionary](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/dictionary.py)
 
 ### Further Reading
+- [w3 School Python](https://www.w3schools.com/python/)
+- [HackerRank python Domain](https://www.hackerrank.com/domains/python)
 - [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
 - [Projects Created on Python](python.org/about/success)
 - [C++ vs. Java vs. Python Language Speed Test (Informal)](https://www.youtube.com/watch?v=C8jeRug6agk)
