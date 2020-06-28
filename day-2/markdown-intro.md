@@ -7,4 +7,4 @@
 
 this is a paragraph.
 
-this is a [google](www.google.com)
+this is a [google](https://www.google.com)
