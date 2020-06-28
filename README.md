@@ -1,8 +1,7 @@
 # Python 🐍 Basics Workshop - What After College
 
 Solutions to all sample problems on HackerRank under the 
-[Python domain](https://www.hackerrank.com/domains/python)
- can be 
+[Python domain](https://www.hackerrank.com/domains/python) can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
 Programming is a very hands process and is both an art as well as a science. We are
@@ -14,7 +13,7 @@ and making the first step in any direction is commendable, but the cardinal fact
 will be you sitting down (or standing) and writing code. No book or resource can substitute that.
 
 So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can.... 🐱‍👤    
-Happy Coding :octocat: 🐱‍💻
+Happy Coding :octocat: 🐱‍💻 
 
 ## Index
 | Domain | Important Links |
@@ -73,9 +72,13 @@ Happy Coding :octocat: 🐱‍💻
 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
 
-## Day 2
+## [Day 2](https://github.com/anishLearnsToCode/python-workshop-1/tree/master/day-2)
 
 ### Topics Covered
+- [Dictionaries](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/dictionaries.py)
+- [Frequency Count in Sentence](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/wordCounter.py)
+- [Modules](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/modules.py)
+- [Generators](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/generators.py)
 
 ### Further Reading
 - [Math Module](https://docs.python.org/3/library/math.html)
@@ -95,7 +98,11 @@ Happy Coding :octocat: 🐱‍💻
 | [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
 
 ## Hangman Game (Capstone Project)
-- The code can be viewed [here](https://github.com/anishLearnsToCode/hangman-cli-game).
+The code can be viewed [here](https://github.com/anishLearnsToCode/hangman-cli-game).
+The main (interesting) concepts being used by this code are:
+- [Functions](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/functions.py)
+- [Modules](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/modules.py)
+- [Generators](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/generators.py)
 
 ## Future Scope and Path
 Now that you have learnt the basics of Python and also built an amazing project that showcases
