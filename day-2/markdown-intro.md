@@ -27,3 +27,25 @@ print(val)
 ````bash
 git commit -m "initial commit"
 ````
+
+## Unordered List
+- item 1
+- item 2
+- item 3
+
+## Ordered List
+1. item 1
+1. item 2
+1. item 3
+1. item 4
+
+## Tables
+| Column 1 | Column 2 |
+|----------|----------|
+| entry 1 | entry 2 |
+| entry 1 | entry 2 |
+| entry 1 | entry 2 |
+| entry 1 | entry 2 |
+| entry 1 | entry 2 |
+| entry 1 | entry 2 |
+| entry 1 | entry 2 |
