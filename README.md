@@ -1,5 +1,7 @@
 # Python 🐍 Basics Workshop - What After College
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/python-workshop-1)
+
 Solutions to all sample problems on HackerRank under the 
 [Python domain](https://www.hackerrank.com/domains/python) can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
